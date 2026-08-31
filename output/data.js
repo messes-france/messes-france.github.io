@@ -103,6 +103,7 @@ window.ANNUAIRE_DATA = [
 {ville:"Ecole Prunay",dept:"",d:"",dioc:"",lieu:"École Saint-Rémi",adr:"",rite:"tridentin",lang:"latin",comm:"FSSPX",cel:"",horaire:"Voir site",tel:"",url:"",src:"portelatine",lat:48.8615229,lon:1.6731538},
 {ville:"Ecole Saint Jean De La Ruelle",dept:"",d:"",dioc:"",lieu:"École des Saints-Anges-Gardiens",adr:"",rite:"tridentin",lang:"latin",comm:"FSSPX",cel:"",horaire:"Voir site",tel:"",url:"",src:"portelatine",lat:47.9209533,lon:1.8806944},
 {ville:"Ecole Saint Nolff",dept:"",d:"",dioc:"",lieu:"École Sainte Philomène",adr:"",rite:"tridentin",lang:"latin",comm:"FSSPX",cel:"",horaire:"Voir site",tel:"",url:"",src:"portelatine",lat:47.6870272,lon:-2.6809421},
+{ville:"Ecole Saint Symphorien D Ozon",dept:"",d:"",dioc:"",lieu:"École Notre-Dame des Mariniers",adr:"",rite:"tridentin",lang:"latin",comm:"FSSPX",cel:"",horaire:"Voir site",tel:"",url:"",src:"portelatine",lat:null,lon:null},
 {ville:"Ecole Toulouse",dept:"",d:"",dioc:"",lieu:"École Saint Jean-Bosco",adr:"",rite:"tridentin",lang:"latin",comm:"FSSPX",cel:"",horaire:"Voir site",tel:"",url:"",src:"portelatine",lat:43.6012653,lon:1.3805248},
 {ville:"Ecole Tours",dept:"",d:"",dioc:"",lieu:"École de la Sainte Face",adr:"",rite:"tridentin",lang:"latin",comm:"FSSPX",cel:"",horaire:"Voir site",tel:"",url:"",src:"portelatine",lat:47.3822167,lon:0.6896744},
 {ville:"Ecole Unieux",dept:"",d:"",dioc:"",lieu:"École Sainte-Catherine-de-Sienne",adr:"",rite:"tridentin",lang:"latin",comm:"FSSPX",cel:"",horaire:"Voir site",tel:"",url:"",src:"portelatine",lat:45.4077493,lon:4.2672024},
